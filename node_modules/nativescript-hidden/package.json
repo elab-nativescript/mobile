@@ -1,0 +1,106 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-hidden",
+        "scope": null,
+        "escapedName": "nativescript-hidden",
+        "name": "nativescript-hidden",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\temp\\nativescripe\\E_lab"
+    ]
+  ],
+  "_from": "nativescript-hidden@latest",
+  "_id": "nativescript-hidden@1.0.0",
+  "_inCache": true,
+  "_location": "/nativescript-hidden",
+  "_nodeVersion": "4.3.1",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-hidden-1.0.0.tgz_1470437346798_0.8974983401130885"
+  },
+  "_npmUser": {
+    "name": "nathanaela",
+    "email": "nathan@master-technology.com"
+  },
+  "_npmVersion": "3.7.4",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-hidden",
+    "scope": null,
+    "escapedName": "nativescript-hidden",
+    "name": "nativescript-hidden",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-hidden/-/nativescript-hidden-1.0.0.tgz",
+  "_shasum": "abdc39051e9e25c3799662e1132904487053ab38",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-hidden",
+  "_where": "C:\\temp\\nativescripe\\E_lab",
+  "author": {
+    "name": "Nathanael Anderson",
+    "email": "nathan@master-technology.com"
+  },
+  "bugs": {
+    "url": "https://github.com/NathanaelA/nativescript-hidden/issues"
+  },
+  "dependencies": {},
+  "description": "A plugin to allow nativescript to support hidden visibility",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "abdc39051e9e25c3799662e1132904487053ab38",
+    "tarball": "https://registry.npmjs.org/nativescript-hidden/-/nativescript-hidden-1.0.0.tgz"
+  },
+  "gitHead": "2f6de1723fa6007d95c407ecc463a0fefdcf7803",
+  "homepage": "https://github.com/NathanaelA/nativescript-hidden",
+  "keywords": [
+    "NativeScript",
+    "hidden",
+    "visibility",
+    "css"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/NathanaelA/nativescript-hidden/blob/master/LICENSE"
+  },
+  "main": "hidden.js",
+  "maintainers": [
+    {
+      "name": "nathanaela",
+      "email": "nathan@master-technology.com"
+    }
+  ],
+  "name": "nativescript-hidden",
+  "nativescript": {
+    "platforms": {
+      "android": "2.0.0",
+      "ios": "2.0.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanaelA/nativescript-hidden.git"
+  },
+  "scripts": {
+    "debug.android": "npm run preparedemo && cd demo && tns debug android --emulator",
+    "debug.ios": "npm run preparedemo && cd demo && tns debug ios --emulator",
+    "demo.android": "npm run preparedemo && cd demo && tns run android",
+    "demo.ios": "npm run preparedemo && cd demo && tns emulate ios",
+    "preparedemo": "cd demo && tns plugin remove nativescript-hidden && tns plugin add .. && tns install",
+    "setup": "cd demo && npm install && tns plugin add .. && cd ..",
+    "start": "npm run demo.android"
+  },
+  "version": "1.0.0"
+}

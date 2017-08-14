@@ -1,0 +1,42 @@
+.sideStackLayout {
+    color: #FFFFFF;
+    background-image: ~/pages/landing/imgs/slidebackground.jpg;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.menuScroller{
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.sideTitleStackLayout {
+    padding: 0;
+    font-weight: bold;
+    background-color: rgba(0,0,0,0.2);
+}
+
+.sideLabel {
+    padding: 16;
+    border-width: 0.5;
+    border-color: #ffffff;
+}
+.archiveViewStackLayout {
+    padding: 16;
+    color: #FFFFFF;
+}
+
+.deleteViewStackLayout {
+    padding: 16;
+    color: #FFFFFF;
+}
+
+.profile_complete_card{
+  height: 100;
+  margin-top: 25;
+  margin-left: 10;
+  margin-right: 10;
+}
+
+.lbCardP{
+  background-color: #22baa0;
+  height:100;
+  width:100;
+}

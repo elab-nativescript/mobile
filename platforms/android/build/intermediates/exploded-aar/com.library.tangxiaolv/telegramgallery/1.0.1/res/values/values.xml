@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="isTablet">false</bool>
+    <color name="divider">#dcdcdc</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="Album">相册</string>
+    <string name="AllPhotos">所有图片</string>
+    <string name="AllVideo">所有视频</string>
+    <string name="AttachPhoto">图片</string>
+    <string name="Cancel">取消</string>
+    <string name="ClearButton">Clear</string>
+    <string name="ClearSearch">Clear search history?</string>
+    <string name="Crop">剪切</string>
+    <string name="MostSelect">你最多只能选择%d张图片</string>
+    <string name="NoPhotos">还没有图片</string>
+    <string name="NoRecentGIFs">No recent GIFs</string>
+    <string name="NoRecentPhotos">No recent photos</string>
+    <string name="NoResult">No results</string>
+    <string name="NoVideo">还没有视频</string>
+    <string name="Of">%1$d / %2$d</string>
+    <string name="PickerPhotos">图片</string>
+    <string name="PickerVideo">视频</string>
+    <string name="Preview">预览</string>
+    <string name="SearchGifs">FIND GIFS</string>
+    <string name="SearchImages">FIND IMAGES</string>
+    <string name="SearchImagesInfo">WEB SEARCH</string>
+    <string name="Send">完成</string>
+    <string name="Set">设置</string>
+    <string name="album_read_fail">相册读取失败,请检查权限</string>
+    <string name="app_name">TelegramGallery</string>
+    <style name="ActionBar.Transparent.TMessages.Item" parent="android:TextAppearance.Widget.IconMenu.Item">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style mce_bogus="1" name="PopupAnimation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/popup_in</item>
+        <item name="android:windowExitAnimation">@anim/popup_out</item>
+    </style>
+    <style name="Theme.TMessages" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBarOverlay">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:colorBackground">@android:color/white</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:itemTextAppearance">@style/ActionBar.Transparent.TMessages.Item</item>
+        <item name="android:listViewStyle">@style/Theme.TMessages.ListView</item>
+        <item name="android:listChoiceBackgroundIndicator">@drawable/list_selector</item>
+        <item name="android:actionBarItemBackground">@drawable/bar_selector_style</item>
+    </style>
+    <style name="Theme.TMessages.ListView" parent="@android:style/Widget.ListView">
+        <item name="android:listSelector">@drawable/list_selector</item>
+        <item name="android:fadingEdge">none</item>
+        <item name="android:dividerHeight">1dp</item>
+        <item name="android:divider">@color/divider</item>
+    </style>
+</resources>

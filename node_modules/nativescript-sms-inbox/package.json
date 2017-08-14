@@ -1,0 +1,99 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-sms-inbox",
+        "scope": null,
+        "escapedName": "nativescript-sms-inbox",
+        "name": "nativescript-sms-inbox",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\temp\\nativescripe\\E_lab"
+    ]
+  ],
+  "_from": "nativescript-sms-inbox@latest",
+  "_id": "nativescript-sms-inbox@1.0.7",
+  "_inCache": true,
+  "_location": "/nativescript-sms-inbox",
+  "_nodeVersion": "6.9.5",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/nativescript-sms-inbox-1.0.7.tgz_1498061968635_0.8909796047955751"
+  },
+  "_npmUser": {
+    "name": "jgithaiga",
+    "email": "juliusgthg@yahoo.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-sms-inbox",
+    "scope": null,
+    "escapedName": "nativescript-sms-inbox",
+    "name": "nativescript-sms-inbox",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-sms-inbox/-/nativescript-sms-inbox-1.0.7.tgz",
+  "_shasum": "9d8556f8ad7865dd1a5f32775286ed3ab915a03b",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-sms-inbox",
+  "_where": "C:\\temp\\nativescripe\\E_lab",
+  "author": {
+    "name": "Julius Githaiga",
+    "email": "julius@example.com"
+  },
+  "bugs": {
+    "url": "https://github.com/jgithaiga/nativescript-sms-inbox/issues"
+  },
+  "dependencies": {},
+  "description": "Read text messages in the android phone inbox using undocumented android api.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "9d8556f8ad7865dd1a5f32775286ed3ab915a03b",
+    "tarball": "https://registry.npmjs.org/nativescript-sms-inbox/-/nativescript-sms-inbox-1.0.7.tgz"
+  },
+  "gitHead": "0ab2c11124e5b9f1bb4943290485a381161276cc",
+  "homepage": "https://github.com/jgithaiga/nativescript-sms-inbox",
+  "keywords": [
+    "NativeScript",
+    "Messaging",
+    "JavaScript",
+    "Android",
+    "sms",
+    "inbox"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/jgithaiga/nativescript-sms-inbox/blob/master/LICENSE"
+  },
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "jgithaiga",
+      "email": "juliusgthg@yahoo.com"
+    }
+  ],
+  "name": "nativescript-sms-inbox",
+  "nativescript": {
+    "platforms": {
+      "android": "1.4.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgithaiga/nativescript-sms-inbox.git"
+  },
+  "scripts": {},
+  "version": "1.0.7"
+}

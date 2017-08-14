@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="platforms/android/build/generated/source/buildConfig/F0/debug"/>
+	<classpathentry kind="src" path="platforms/android/build/generated/source/r/F0/debug"/>
+	<classpathentry kind="src" path="platforms/android/src/debug/java"/>
+	<classpathentry kind="src" path="platforms/android/src/main/java"/>
+	<classpathentry kind="lib" path="platforms/android/build-tools/android-static-binding-generator/interfacenamegenerator.jar"/>
+	<classpathentry kind="lib" path="platforms/android/build-tools/android-static-binding-generator/staticbindinggenerator.jar"/>
+	<classpathentry kind="lib" path="platforms/android/build-tools/dts-generator.jar"/>
+	<classpathentry kind="lib" path="platforms/android/build-tools/metadata-generator.jar"/>
+	<classpathentry kind="lib" path="platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"/>
+	<classpathentry kind="lib" path="platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"/>
+	<classpathentry kind="lib" path="platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"/>
+	<classpathentry kind="lib" path="platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"/>
+	<classpathentry kind="lib" path="platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"/>
+	<classpathentry kind="lib" path="platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"/>
+	<classpathentry kind="lib" path="platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"/>
+	<classpathentry kind="lib" path="platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"/>
+	<classpathentry kind="lib" path="platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"/>
+	<classpathentry kind="lib" path="platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"/>
+	<classpathentry kind="lib" path="platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"/>
+	<classpathentry kind="lib" path="platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"/>
+	<classpathentry kind="lib" path="platforms/android/build/intermediates/exploded-aar/Elab/runtime/unspecified/jars/classes.jar"/>
+	<classpathentry kind="lib" path="platforms/android/build/intermediates/exploded-aar/Elab/runtime/unspecified/jars/libs/binding-generator.jar"/>
+	<classpathentry kind="lib" path="platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"/>
+	<classpathentry kind="lib" path="platforms/android/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

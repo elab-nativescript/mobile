@@ -1,0 +1,7 @@
+int dimen big_confetti_size 0x7f020000
+int dimen confetti_default_elevation 0x7f020001
+int dimen default_confetti_size 0x7f020002
+int dimen default_explosion_radius 0x7f020003
+int dimen default_velocity_fast 0x7f020004
+int dimen default_velocity_normal 0x7f020005
+int dimen default_velocity_slow 0x7f020006

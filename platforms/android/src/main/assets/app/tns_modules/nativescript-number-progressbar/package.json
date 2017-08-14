@@ -1,0 +1,117 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-number-progressbar",
+        "scope": null,
+        "escapedName": "nativescript-number-progressbar",
+        "name": "nativescript-number-progressbar",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\temp\\nativescripe\\E_lab"
+    ]
+  ],
+  "_from": "nativescript-number-progressbar@latest",
+  "_id": "nativescript-number-progressbar@1.0.0",
+  "_inCache": true,
+  "_location": "/nativescript-number-progressbar",
+  "_nodeVersion": "7.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-number-progressbar-1.0.0.tgz_1492246722388_0.7395162568427622"
+  },
+  "_npmUser": {
+    "name": "dlucidone",
+    "email": "jackravi227@gmail.com"
+  },
+  "_npmVersion": "4.1.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-number-progressbar",
+    "scope": null,
+    "escapedName": "nativescript-number-progressbar",
+    "name": "nativescript-number-progressbar",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-number-progressbar/-/nativescript-number-progressbar-1.0.0.tgz",
+  "_shasum": "2e6ef91cedac95914e6eba17ff9342f5a5f71492",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-number-progressbar",
+  "_where": "C:\\temp\\nativescripe\\E_lab",
+  "author": {
+    "name": "Ravindra Mishra",
+    "email": "jackravi227@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/dlucidone/nativescript-number-progressbar/issues"
+  },
+  "dependencies": {},
+  "description": "Nativescript Android Progress Bar plugin.",
+  "devDependencies": {
+    "prompt": "^1.0.0",
+    "rimraf": "^2.5.0",
+    "tns-core-modules": "^2.5.1",
+    "tns-platform-declarations": "^2.5.0",
+    "typescript": "^2.1.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "2e6ef91cedac95914e6eba17ff9342f5a5f71492",
+    "tarball": "https://registry.npmjs.org/nativescript-number-progressbar/-/nativescript-number-progressbar-1.0.0.tgz"
+  },
+  "gitHead": "eb293eb67ff5581fca2eb11b0d1e22925fd71451",
+  "homepage": "https://github.com/dlucidone/nativescript-number-progressbar",
+  "keywords": [
+    "NativeScript",
+    "JavaScript",
+    "Android",
+    "Angular",
+    "progressbar",
+    "bar",
+    "progress",
+    "indicator",
+    "dlucidone"
+  ],
+  "license": "MIT",
+  "main": "number-progressbar",
+  "maintainers": [
+    {
+      "name": "dlucidone",
+      "email": "jackravi227@gmail.com"
+    }
+  ],
+  "name": "nativescript-number-progressbar",
+  "nativescript": {
+    "platforms": {
+      "android": "2.5.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlucidone/nativescript-number-progressbar.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "demo.android": "npm run preparedemo && cd demo && tns run android --emulator",
+    "demo.ios": "npm run preparedemo && cd demo && tns run ios --emulator",
+    "demo.ios.device": "npm run preparedemo && cd demo && tns run ios",
+    "postclone": "npm i && node scripts/postclone.js",
+    "preparedemo": "npm run build && cd demo && tns plugin remove nativescript-submit-button && tns plugin add .. && tns install",
+    "setup": "npm i && cd demo && npm i && cd .. && npm run build && cd demo && tns plugin add .. && cd ..",
+    "test.android": "cd demo && tns test android",
+    "test.ios": "cd demo && tns test ios --emulator",
+    "test.ios.device": "cd demo && tns test ios"
+  },
+  "typings": "index.d.ts",
+  "version": "1.0.0"
+}

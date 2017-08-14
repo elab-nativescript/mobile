@@ -1,0 +1,41 @@
+
+
+<StackLayout >
+
+      //header-bar
+      <GridLayout class="header_ab"  columns="auto,auto,auto" borderColor="#ffffff" id="docklayout_rightb">
+         <Label  class="back_btn mdi" [nsRouterLink]="['/']" clearHistory="true" pageTransition="flip" [text]="'mdi-keyboard-arrow-left' | fonticon" col="0" colSpan="2"></Label>
+         <Label text="Create Account"  class="title_label" col="2"></Label>
+      </GridLayout>
+
+      //profile-image-container
+      <StackLayout class="profile_img_container form" orientation="horizontal" >
+         <button  id="imgpicker" class="mdi imagepicker"  (tap)="showDialog()"  borderRadius="100%" [text]="'mdi-photo-camera' | fonticon" ></button>
+         <Image   id="imageviwer" class="imgviwer input-field" (tap)="showDialog()" stretch="aspectFill" borderRadius="100%" visibility="collapse"></Image>
+      </StackLayout>
+
+      //form-container
+      <StackLayout class="form formStyle">
+
+        <DockLayout class="grid-text-container input-field" col="3" row="0">
+           <Label class="mdi icon" col="0" [text]="'mdi-account-circle' | fonticon"></Label>
+           <TextField required #fullname   class="input" #fullname="ngModel" [(ngModel)]="account.fullname"  col="1" collspan="2"  hint="Full Name" keyboardType="email" autocorrect="false" autocapitalizationType="none" minlength="1"></TextField>
+        </DockLayout>
+
+        <DockLayout class="grid-text-container input-field" col="3" row="0">
+           <Label class="mdi icon" col="0" [text]="'mdi-email' | fonticon"></Label>
+           <TextField required #email id="emailView"  class="input"  #Email="ngModel"  [(ngModel)]="account.email" col="1" collspan="2"  hint="email" keyboardType="email" autocorrect="false" autocapitalizationType="none" email></TextField>
+        </DockLayout>
+
+        <DockLayout class="grid-text-container input-field" col="3" row="0">
+           <Label class="mdi icon" col="0" [text]="'mdi-stay-current-portrait' | fonticon"></Label>
+           <TextField required #mobnumber  class="input" #PhoneNumber="ngModel" [(ngModel)]="account.mobile" col="1" collspan="2"  hint="Mobile Number" keyboardType="phone" autocorrect="false" autocapitalizationType="none" mobile ></TextField>
+        </DockLayout>
+        <DockLayout class="grid-text-container input-field" col="3" row="0">
+           <Label class="mdi icon" col="0" [text]="'mdi-vpn-key' | fonticon"></Label>
+           <TextField required #password secure="true" class="input" #Password="ngModel" [(ngModel)]="account.password" col="1" collspan="2"  hint="password"  autocorrect="false" autocapitalizationType="none" password minlength="8" ></TextField>
+        </DockLayout>
+      </StackLayout>
+
+      <Button  (tap)="signup(account)"  class="btn mdi"  [text]="'mdi-person-add' | fonticon" ></Button>
+</StackLayout>

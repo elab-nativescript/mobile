@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-mdpi\\pointer.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\src\\main\\res\\drawable-mdpi\\pointer.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-mdpi\\icon.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-mdpi\\logo.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-mdpi\\progress_0.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\src\\main\\res\\drawable-mdpi\\progress_0.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-mdpi\\progress_0.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\src\\main\\res\\drawable-mdpi\\progress_0.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-mdpi\\progress_2.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\src\\main\\res\\drawable-mdpi\\progress_2.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-mdpi\\progress_3.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\src\\main\\res\\drawable-mdpi\\progress_3.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-mdpi\\dragdown.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\src\\main\\res\\drawable-mdpi\\dragdown.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-mdpi\\progress_1.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\src\\main\\res\\drawable-mdpi\\progress_1.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-mdpi\\icon.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-mdpi\\dragdown.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\src\\main\\res\\drawable-mdpi\\dragdown.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-mdpi\\pointer.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\src\\main\\res\\drawable-mdpi\\pointer.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-mdpi\\progress_1.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\src\\main\\res\\drawable-mdpi\\progress_1.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-mdpi\\logo.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-mdpi\\progress_2.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\src\\main\\res\\drawable-mdpi\\progress_2.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-mdpi\\progress_3.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\src\\main\\res\\drawable-mdpi\\progress_3.png"
+    }
+]

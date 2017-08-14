@@ -1,0 +1,118 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-telegram-image-picker",
+        "scope": null,
+        "escapedName": "nativescript-telegram-image-picker",
+        "name": "nativescript-telegram-image-picker",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\temp\\nativescripe\\E_lab"
+    ]
+  ],
+  "_from": "nativescript-telegram-image-picker@latest",
+  "_id": "nativescript-telegram-image-picker@1.0.3",
+  "_inCache": true,
+  "_location": "/nativescript-telegram-image-picker",
+  "_nodeVersion": "7.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-telegram-image-picker-1.0.3.tgz_1487350220856_0.1787374874111265"
+  },
+  "_npmUser": {
+    "name": "bradmartin",
+    "email": "bradmartin0905@gmail.com"
+  },
+  "_npmVersion": "3.10.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-telegram-image-picker",
+    "scope": null,
+    "escapedName": "nativescript-telegram-image-picker",
+    "name": "nativescript-telegram-image-picker",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-telegram-image-picker/-/nativescript-telegram-image-picker-1.0.3.tgz",
+  "_shasum": "cb5d462af16776b6b3d05802aa572f2c222bd5a8",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-telegram-image-picker",
+  "_where": "C:\\temp\\nativescripe\\E_lab",
+  "author": {
+    "name": "Brad Martin",
+    "email": "bradwaynemartin@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/bradmartin/nativescript-telegram-image-picker/issues"
+  },
+  "contributors": [
+    {
+      "name": "Daxito",
+      "url": "https://github.com/Daxito"
+    }
+  ],
+  "dependencies": {},
+  "description": "NativeScript plugin using the TelegramGallery Image Picker library for a customized image picker.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "cb5d462af16776b6b3d05802aa572f2c222bd5a8",
+    "tarball": "https://registry.npmjs.org/nativescript-telegram-image-picker/-/nativescript-telegram-image-picker-1.0.3.tgz"
+  },
+  "gitHead": "cdbb8b24860c8d0c5046f51d83385c0b3318d947",
+  "homepage": "https://github.com/bradmartin/nativescript-telegram-image-picker",
+  "keywords": [
+    "NativeScript",
+    "telegram-image-picker",
+    "TypeScript",
+    "images",
+    "bradmartin",
+    "thorum",
+    "android",
+    "gallery",
+    "image picker"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/bradmartin/nativescript-telegram-image-picker/blob/master/LICENSE"
+  },
+  "main": "telegram-image-picker",
+  "maintainers": [
+    {
+      "name": "bradmartin",
+      "email": "bradmartin0905@gmail.com"
+    }
+  ],
+  "name": "nativescript-telegram-image-picker",
+  "nativescript": {
+    "platforms": {
+      "android": "2.0.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradmartin/nativescript-telegram-image-picker.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "debug.android": "npm run preparedemo && cd demo && tns debug android --emulator",
+    "debug.ios": "npm run preparedemo && cd demo && tns debug ios --emulator",
+    "demo.android": "npm run preparedemo && cd demo && tns run android",
+    "demo.ios": "npm run preparedemo && cd demo && tns emulate ios",
+    "preparedemo": "npm run build && cd demo && tns plugin remove nativescript-telegram-image-picker && tns plugin add .. && tns install",
+    "setup": "cd demo && npm install && cd .. && npm run build && cd demo && tns plugin add .. && cd ..",
+    "start": "npm run demo.ios"
+  },
+  "typings": "index.d.ts",
+  "version": "1.0.3"
+}

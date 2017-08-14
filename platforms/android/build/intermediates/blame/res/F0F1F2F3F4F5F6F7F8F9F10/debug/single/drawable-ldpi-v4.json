@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-ldpi-v4\\ucrop_ic_reset.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\1.5.0\\res\\drawable-ldpi-v4\\ucrop_ic_reset.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-ldpi-v4\\background.jpg",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\src\\main\\res\\drawable-ldpi\\background.jpg"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-ldpi-v4\\ucrop_ic_cross.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\1.5.0\\res\\drawable-ldpi-v4\\ucrop_ic_cross.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-ldpi-v4\\ucrop_ic_angle.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\1.5.0\\res\\drawable-ldpi-v4\\ucrop_ic_angle.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-ldpi-v4\\ucrop_ic_reset.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\1.5.0\\res\\drawable-ldpi-v4\\ucrop_ic_reset.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-ldpi-v4\\ucrop_ic_scale.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\1.5.0\\res\\drawable-ldpi-v4\\ucrop_ic_scale.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-ldpi-v4\\loading.gif",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\src\\main\\res\\drawable-ldpi\\loading.gif"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-ldpi-v4\\ucrop_ic_crop.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\1.5.0\\res\\drawable-ldpi-v4\\ucrop_ic_crop.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-ldpi-v4\\ucrop_ic_done.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\1.5.0\\res\\drawable-ldpi-v4\\ucrop_ic_done.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-ldpi-v4\\ucrop_ic_next.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\1.5.0\\res\\drawable-ldpi-v4\\ucrop_ic_next.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-ldpi-v4\\ucrop_ic_angle.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\1.5.0\\res\\drawable-ldpi-v4\\ucrop_ic_angle.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-ldpi-v4\\background.jpg",
+        "source": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\src\\main\\res\\drawable-ldpi\\background.jpg"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-ldpi-v4\\ucrop_ic_rotate.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\1.5.0\\res\\drawable-ldpi-v4\\ucrop_ic_rotate.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-ldpi-v4\\ucrop_ic_next.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\1.5.0\\res\\drawable-ldpi-v4\\ucrop_ic_next.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-ldpi-v4\\ucrop_ic_rotate.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\1.5.0\\res\\drawable-ldpi-v4\\ucrop_ic_rotate.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-ldpi-v4\\ucrop_ic_cross.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile-nativescript-elab\\platforms\\android\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\1.5.0\\res\\drawable-ldpi-v4\\ucrop_ic_cross.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-ldpi-v4\\ucrop_ic_done.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\1.5.0\\res\\drawable-ldpi-v4\\ucrop_ic_done.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-ldpi-v4\\loading.gif",
+        "source": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\src\\main\\res\\drawable-ldpi\\loading.gif"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-ldpi-v4\\ucrop_ic_crop.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\1.5.0\\res\\drawable-ldpi-v4\\ucrop_ic_crop.png"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10\\debug\\drawable-ldpi-v4\\ucrop_ic_scale.png",
+        "source": "C:\\temp\\nativescripe\\E_lab\\platforms\\android\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\1.5.0\\res\\drawable-ldpi-v4\\ucrop_ic_scale.png"
+    }
+]

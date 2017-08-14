@@ -1,0 +1,131 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-gif",
+        "scope": null,
+        "escapedName": "nativescript-gif",
+        "name": "nativescript-gif",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\temp\\nativescripe\\E_lab"
+    ]
+  ],
+  "_from": "nativescript-gif@latest",
+  "_id": "nativescript-gif@2.0.0",
+  "_inCache": true,
+  "_location": "/nativescript-gif",
+  "_nodeVersion": "7.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/nativescript-gif-2.0.0.tgz_1495117003288_0.4929989269003272"
+  },
+  "_npmUser": {
+    "name": "bradmartin",
+    "email": "bradmartin0905@gmail.com"
+  },
+  "_npmVersion": "3.10.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-gif",
+    "scope": null,
+    "escapedName": "nativescript-gif",
+    "name": "nativescript-gif",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-gif/-/nativescript-gif-2.0.0.tgz",
+  "_shasum": "67e49a65191bb020c723e81109435ae7a1d0b234",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-gif",
+  "_where": "C:\\temp\\nativescripe\\E_lab",
+  "author": {
+    "name": "Brad Martin",
+    "email": "bradwaynemartin@gmail.com",
+    "url": "https://github.com/bradmartin"
+  },
+  "bugs": {
+    "url": "https://github.com/bradmartin/nativescript-gif/issues"
+  },
+  "contributors": [
+    {
+      "name": "Nathanael Anderson",
+      "email": "nathan@master-technology.com",
+      "url": "https://github.com/NathanaelA"
+    },
+    {
+      "name": "Nathan Walker",
+      "email": "walkerrunpdx@gmail.com",
+      "url": "https://github.com/NathanWalker"
+    }
+  ],
+  "dependencies": {},
+  "description": "NativeScript plugin to use .gifs",
+  "devDependencies": {
+    "tns-core-modules": "^3.0.0",
+    "typescript": "^2.2.2"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "67e49a65191bb020c723e81109435ae7a1d0b234",
+    "tarball": "https://registry.npmjs.org/nativescript-gif/-/nativescript-gif-2.0.0.tgz"
+  },
+  "gitHead": "ecbe056d5d106a71722c1e09879dbba9e0762324",
+  "homepage": "https://github.com/bradmartin/nativescript-gif",
+  "keywords": [
+    "NativeScript",
+    "JavaScript",
+    "Android",
+    "iOS",
+    "gif",
+    "bradmartin"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/bradmartin/nativescript-gif/blob/master/LICENSE"
+  },
+  "main": "gif",
+  "maintainers": [
+    {
+      "name": "bradmartin",
+      "email": "bradmartin0905@gmail.com"
+    },
+    {
+      "name": "nathanaela",
+      "email": "nathan@master-technology.com"
+    },
+    {
+      "name": "walkerrunpdx",
+      "email": "walkerrunpdx@gmail.com"
+    }
+  ],
+  "name": "nativescript-gif",
+  "nativescript": {
+    "platforms": {
+      "android": "3.0.0",
+      "ios": "3.0.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradmartin/nativescript-gif.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "demo.android": "npm run preparedemo; cd demo; tns run android",
+    "demo.ios": "npm run preparedemo; cd demo; tns emulate ios",
+    "preparedemo": "npm run build; cd demo; tns plugin remove nativescript-gif; tns plugin add ..; tns install",
+    "setup": "cd demo; npm install; cd ..; npm run build; cd demo; tns plugin add ..; cd .."
+  },
+  "typings": "gif.d.ts",
+  "version": "2.0.0"
+}

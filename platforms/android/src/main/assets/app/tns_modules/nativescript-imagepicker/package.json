@@ -1,0 +1,101 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-imagepicker",
+        "scope": null,
+        "escapedName": "nativescript-imagepicker",
+        "name": "nativescript-imagepicker",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\temp\\nativescripe\\E_lab"
+    ]
+  ],
+  "_from": "nativescript-imagepicker@latest",
+  "_id": "nativescript-imagepicker@3.0.2",
+  "_inCache": true,
+  "_location": "/nativescript-imagepicker",
+  "_nodeVersion": "6.11.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/nativescript-imagepicker-3.0.2.tgz_1499417031225_0.9937090929597616"
+  },
+  "_npmUser": {
+    "name": "tns-bot",
+    "email": "nativescript@telerik.com"
+  },
+  "_npmVersion": "4.6.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-imagepicker",
+    "scope": null,
+    "escapedName": "nativescript-imagepicker",
+    "name": "nativescript-imagepicker",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-imagepicker/-/nativescript-imagepicker-3.0.2.tgz",
+  "_shasum": "975ffbb7d7af9c928d87bc7484e1bb5000f58e06",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-imagepicker",
+  "_where": "C:\\temp\\nativescripe\\E_lab",
+  "author": {
+    "name": "NativeScript Team"
+  },
+  "bugs": {
+    "url": "https://github.com/NativeScript/nativescript-imagepicker/issues"
+  },
+  "dependencies": {},
+  "description": "A plugin for the NativeScript framework implementing multiple image picker",
+  "devDependencies": {
+    "nativescript-telerik-ui": "^3.0.0",
+    "tns-core-modules": "^3.0.0",
+    "tns-platform-declarations": "^3.0.0",
+    "typescript": "2.3.4"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "975ffbb7d7af9c928d87bc7484e1bb5000f58e06",
+    "tarball": "https://registry.npmjs.org/nativescript-imagepicker/-/nativescript-imagepicker-3.0.2.tgz"
+  },
+  "homepage": "https://github.com/NativeScript/nativescript-imagepicker#readme",
+  "main": "viewmodel",
+  "maintainers": [
+    {
+      "name": "panayot.cankov",
+      "email": "panayot.cankov@telerik.com"
+    },
+    {
+      "name": "tns-bot",
+      "email": "nativescript@telerik.com"
+    }
+  ],
+  "name": "nativescript-imagepicker",
+  "nativescript": {
+    "platforms": {
+      "android": "3.0.0",
+      "ios": "3.0.0"
+    }
+  },
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "nativescript-telerik-ui": "^3.0.0",
+    "tns-core-modules": "^3.0.0 || >=3.0.0-2017"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NativeScript/nativescript-imagepicker.git"
+  },
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "version": "3.0.2"
+}

@@ -1,0 +1,29 @@
+
+ <StackLayout class="login-form"   verticalAlignment="stretch" >
+
+    <StackLayout class="login-inputs-container form" verticalAlignment="center" >
+       <!-- //src="~/pages/home/imgs/elabcircle.png" -->
+      <Image  id="logo" src="~/pages/home/imgs/elab.png"  width="200" height="200"></Image>
+
+      <DockLayout class="grid-text-container input-field" col="3" row="0">
+         <Label class="mdi icon" [text]="'mdi-perm-identity' | fonticon" col="0" ></Label>
+         <TextField  required   class="input " #emailtf="ngModel"  #email id="email" col="1" collspan="2" [(ngModel)]="usr.email" hint="Email Address" keyboardType="email"  autocorrect="false" autocapitalizationType="none"></TextField>
+      </DockLayout>
+
+      <DockLayout class="grid-text-container input-field" col="3" row="0">
+         <Label class="mdi icon" col="0" [text]="'mdi-lock-open' | fonticon"></Label>
+         <TextField required class="input"  #passwordtf="ngModel" #password id="password" col="1" collspan="2" [(ngModel)]="usr.password" hint="Password" secure="true" ></TextField>
+      </DockLayout>
+
+
+      <Button (tap)="emailtf.valid && passwordtf.valid ? sigin() : textfield_validation()"  class="btn" text="login" ></Button>
+
+
+    </StackLayout>
+    <StackLayout verticalAlignment="bottom">
+    <DockLayout col="auto auto auto" row="0" height="100">
+       <Label col="0" colspan="2" class="signup-label"  text="Create Account" clearHistory="true" [nsRouterLink]="['/signup']" pageTransition="flip"></Label>
+       <Label col="1" class="help-label"  text="Need Help?"  [nsRouterLink]="['/signup']" pageTransition="flip"></Label>
+    </DockLayout>
+  </StackLayout>
+</StackLayout>

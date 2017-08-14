@@ -1,0 +1,12 @@
+
+android { 
+    productFlavors {
+        "F7" {
+            dimension "nativescriptsmsinbox"
+        }
+    }
+}
+
+dependencies {
+	//compile 'com.tuenti.smsradar:library:1.0.4'	
+}
