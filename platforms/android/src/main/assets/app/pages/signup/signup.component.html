@@ -17,24 +17,26 @@
       //form-container
       <StackLayout class="form formStyle">
 
-        <DockLayout class="grid-text-container input-field" col="3" row="0">
+      <GridLayout class="grid-text-container input-field" columns="50,*">
            <Label class="mdi icon" col="0" [text]="'mdi-account-circle' | fonticon"></Label>
-           <TextField required #fullname   class="input" #fullname="ngModel" [(ngModel)]="account.fullname"  col="1" collspan="2"  hint="Full Name" keyboardType="email" autocorrect="false" autocapitalizationType="none" minlength="1"></TextField>
-        </DockLayout>
+           <TextField required #fullname  class="input" #fullname="ngModel" [(ngModel)]="account.fullname"  col="1"   hint="Full Name" keyboardType="email" autocorrect="false" autocapitalizationType="none" minlength="1"></TextField>
+        </GridLayout>
 
-        <DockLayout class="grid-text-container input-field" col="3" row="0">
+      <GridLayout class="grid-text-container input-field" columns="50,*">
            <Label class="mdi icon" col="0" [text]="'mdi-email' | fonticon"></Label>
-           <TextField required #email id="emailView"  class="input"  #Email="ngModel"  [(ngModel)]="account.email" col="1" collspan="2"  hint="email" keyboardType="email" autocorrect="false" autocapitalizationType="none" email></TextField>
-        </DockLayout>
+           <TextField required #email id="emailView"  class="input"  #Email="ngModel"  [(ngModel)]="account.email" col="1"   hint="email" keyboardType="email" autocorrect="false" autocapitalizationType="none" email></TextField>
+      </GridLayout>
 
-        <DockLayout class="grid-text-container input-field" col="3" row="0">
+        <GridLayout class="grid-text-container input-field" columns="50,160,*" >
            <Label class="mdi icon" col="0" [text]="'mdi-stay-current-portrait' | fonticon"></Label>
-           <TextField required #mobnumber  class="input" #PhoneNumber="ngModel" [(ngModel)]="account.mobile" col="1" collspan="2"  hint="Mobile Number" keyboardType="phone" autocorrect="false" autocapitalizationType="none" mobile ></TextField>
-        </DockLayout>
-        <DockLayout class="grid-text-container input-field" col="3" row="0">
+           <DropDown id="dropdown"   [items]="items" [(ngModel)]="selectedIndex" (selectedIndexChanged)="onchange($event)"
+                  (opened)="onopen()" style="color:#ffffff;text-align:left;font-size:18;font-weight:bold;" col="1"></DropDown>
+           <TextField required #mobnumber  class="input" #PhoneNumber="ngModel" [(ngModel)]="account.mobile" col="2"  hint="Mobile Number" keyboardType="phone" autocorrect="false" autocapitalizationType="none" mobile ></TextField>
+        </GridLayout>
+        <GridLayout class="grid-text-container input-field" columns="50,*">
            <Label class="mdi icon" col="0" [text]="'mdi-vpn-key' | fonticon"></Label>
-           <TextField required #password secure="true" class="input" #Password="ngModel" [(ngModel)]="account.password" col="1" collspan="2"  hint="password"  autocorrect="false" autocapitalizationType="none" password minlength="8" ></TextField>
-        </DockLayout>
+           <TextField required #password secure="true" class="input" #Password="ngModel" [(ngModel)]="account.password" col="1"  hint="password"  autocorrect="false" autocapitalizationType="none" password minlength="8" ></TextField>
+        </GridLayout>
       </StackLayout>
 
       <Button  (tap)="signup(account)"  class="btn mdi"  [text]="'mdi-person-add' | fonticon" ></Button>

@@ -3,111 +3,57 @@
 
     <item
         is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\Primitives-2017.1.629-dev-release\jars\classes.jar"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="9778abc074d09a6be12be174e5a775e9d059a3b0">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\intermediates-exploded-aar-Primitives-2017.1.629-dev-release_25967824e788c09d2d771d4710aa018f5b72bde1.jar" />
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\com.android.support-animated-vector-drawable-25.3.1_7ba0e4c189056d9f33c11746bb5c2ac91c9154e6.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\com.android.support-support-fragment-25.3.1_f471b108e02bbedcbacaedf10209918e49fc3565.jar" />
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\com.android.support-appcompat-v7-25.3.1_e144bf42396669258e03e84d9ccd226c335d3344.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\ITDEV\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\okhttp-3.2.0_55bb9a3a5c9d452326a6484efb1b2961c3147c96.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\com.android.support-cardview-v7-25.3.1_dae146305f8d342afe7818fefdedc58778470a45.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\pl.droidsonroids.gif\android-gif-drawable\1.1.17\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="7f8c6fd043a9c060badf3fa9b77e51c422af0a8b">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\pl.droidsonroids.gif-android-gif-drawable-1.1.17_6a8a2dd869edbefe0e448dccda20ce40f5778b9e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\Elab\runtime\unspecified\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="30b97ea5d6274e02330dcc69943087778363c172">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\Elab-runtime-unspecified_fe5f65557ed399f5536e08cc4f8f0a4ba11e9b3f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\List-2017.1.629-dev-release\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="c56418f958e06acf6ebe47b92630e48fc908da0c">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\intermediates-exploded-aar-List-2017.1.629-dev-release_9c241b528cfbd073ddd41d809905c7514d4ee179.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\Elab\runtime\unspecified\jars\libs\binding-generator.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\binding-generator_a0d0fd684dec8fd6c1a83f6ffd3b38dbf177c7be.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\com.yalantis\ucrop\1.5.0\jars\classes.jar"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\com.yalantis\ucrop\1.5.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="9d27a85b9b7774bb4aad8b319e8367865729686e">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\com.yalantis-ucrop-1.5.0_808640449423abd50b118ebe93e8d5b26d734c63.jar" />
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\com.yalantis-ucrop-1.5.0_8c0d6ae55a6b2a8fed4dcc8fefc28077c51055d7.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\com.android.support-support-core-ui-25.3.1_ea3b54b623255539abdad05659f9a4c785fef997.jar" />
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\com.android.support-transition-25.3.1_d1daffaab527147c032632cb7713e5deb520adc9.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\com.github.jinatonic.confetti\confetti\1.1.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\intermediates-exploded-aar-widgets-release_047888dd1bc095fd24fc7abeb536d8e93663c539.jar" />
+        sha1="4e8814eea73c237a5a9e8232c0ae11056d462eba">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\com.github.jinatonic.confetti-confetti-1.1.0_0353c9f5f1e75922509002a83c0c0fc399765ddc.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\Data-2017.1.629-dev-release\jars\classes.jar"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="7615b36d29f0ebd19733f3a2d3763ae967976656">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\intermediates-exploded-aar-Data-2017.1.629-dev-release_539544ba2198fd9edda3554d0e9c6e862b4531f0.jar" />
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\com.android.support-cardview-v7-25.3.1_3b7333cc1d0cc3e454300d6a1e1225fcd0bceef3.jar" />
     </item>
     <item
         is-multidex="false"
@@ -116,151 +62,223 @@
         optimize="true"
         revision="25.0.3"
         sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\support-annotations-25.3.1_82bcf109db66373c104b0f31829b7d25657aa8c3.jar" />
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\support-annotations-25.3.1_82bcf109db66373c104b0f31829b7d25657aa8c3.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\com.romandanylyk\pageindicatorview\0.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\com.android.support-support-compat-25.3.1_7e239e963a4dcbbc108ee02760da61ae0df41cc1.jar" />
+        sha1="d3efa7f57187532c3abed6fd797d197bf09fbfb6">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\com.romandanylyk-pageindicatorview-0.2.0_e7e132ac6c551f45001222f0f8dc91eca00385b0.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\com.android.support-support-vector-drawable-25.3.1_bae54b7ad9b461799959aaeb18f83cedef73bfa1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\com.android.support-support-core-utils-25.3.1_1debe23a500e09a5e9002798ec2d31d70fee6dab.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\Common-2017.1.629-dev-release\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="c4ef833d7653b95726b9ee4852a1e0500093e661">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\intermediates-exploded-aar-Common-2017.1.629-dev-release_65112e1cacabdc3543c1fd890bf850d967c0f734.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\com.github.andyxialm\ColorDialog\fc1804b35a\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="f04d9a60ce24d8aa9a4a415f330270b9289b03f7">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\com.github.andyxialm-ColorDialog-fc1804b35a_4b675503587f625146ba1e1fa4e779ff79e048e2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\com.android.support-recyclerview-v7-25.3.1_18910e32e3daf985dbc9e127133c055086a6cd39.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\com.android.support-support-v4-25.3.1_645a761ec6147e520518bbd76c6c65b1a775cd18.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\com.android.support-appcompat-v7-25.3.1_d7d88e51e5831b89e67df8acc395a4e5cd9bff89.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\ITDEV\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\okio-1.6.0_069acbe5106403d33a9f71254ff3559c4430f78d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\com.android.support-support-media-compat-25.3.1_07a09af8706f56f960a89901a872f1dfb399cab6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\com.github.jinatonic.confetti\confetti\1.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="4e8814eea73c237a5a9e8232c0ae11056d462eba">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\com.github.jinatonic.confetti-confetti-1.1.0_7081e18751c897db9d438bb3793694524a825187.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\com.android.support-transition-25.3.1_5017ce3cc974d614d8cd82b71a0c7376b2bec811.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\com.library.tangxiaolv\telegramgallery\1.0.1\jars\classes.jar"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\com.library.tangxiaolv\telegramgallery\1.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="ccc1b9cc9439d707d48d84d64728c621330b051c">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\com.library.tangxiaolv-telegramgallery-1.0.1_6b3d481b588c1078b9009f10b54469851a581efc.jar" />
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\com.library.tangxiaolv-telegramgallery-1.0.1_c2314fc5b5c0dd8815a0607574d33f80370a3808.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\com.daimajia.numberprogressbar\library\1.4\jars\classes.jar"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\com.android.support-support-compat-25.3.1_ebf2e8e82c9b20ef9317717fd3016e7cd5f74839.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\List-2017.1.629-dev-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c56418f958e06acf6ebe47b92630e48fc908da0c">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\intermediates-exploded-aar-List-2017.1.629-dev-release_54443963077480b639d5ec570a1d7d0243370b00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\com.daimajia.numberprogressbar\library\1.4\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="e82910dd72a1f446acb523c10abbb2ba330e9c9f">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\com.daimajia.numberprogressbar-library-1.4_3228ebc86dd3eebd3586e71d12d7a4a3e1e2bdca.jar" />
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\com.daimajia.numberprogressbar-library-1.4_5b3506c6e14ab39d3a4c0a66b90a8de71adfb1d8.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jar="C:\Users\saleh-mes\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\okhttp-3.2.0_76fd4a7b08942b4549ed0ffa54e9e51463bab825.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\com.android.support-support-v4-25.3.1_7891aaee11b075c2fc43ef69177d98ec695ffecc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\com.android.support-recyclerview-v7-25.3.1_2d682d540f60c7efd3b2f1ca21c707d6e325f40f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\com.github.andyxialm\ColorDialog\fc1804b35a\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f04d9a60ce24d8aa9a4a415f330270b9289b03f7">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\com.github.andyxialm-ColorDialog-fc1804b35a_f631ead9e2e612d422f6b73815dae26e90e31713.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\Elab\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\binding-generator_5d578b397b27e47925a6de638bc08b4e91393037.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\intermediates-exploded-aar-widgets-release_e7cf1e1ea3820fbc7814fee447997664e5f76095.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\com.pixplicity.sharp\library\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8d755d4547f938d272dbbe9036b1559556c7e89d">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\com.pixplicity.sharp-library-1.0.2_c6a43056f1e0f50f1f58c89292d7f5569abd62a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\com.android.support-support-core-ui-25.3.1_0ba23612c4347368b661a0b301110525f8e31f2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\pl.droidsonroids.gif\android-gif-drawable\1.1.17\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7f8c6fd043a9c060badf3fa9b77e51c422af0a8b">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\pl.droidsonroids.gif-android-gif-drawable-1.1.17_af3b99f5be51138069ba3108a90384c4ea6c9a43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\com.android.support-support-vector-drawable-25.3.1_3794c7b08fc3eea0f63552ed12c86bd6d4aa3b92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\com.android.support-support-fragment-25.3.1_c97784058b592d418057f2bdc74f51504ebafd54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\com.android.support-support-core-utils-25.3.1_a8f6265346332a0aab5d46eec6c6645f164607e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\com.android.support-design-25.3.1_f95bdbe6658a434202275a139dab16076583f499.jar" />
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\com.android.support-design-25.3.1_1956a96b6399304f89bb5b95028bf25639957a01.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\Data-2017.1.629-dev-release\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="C:\temp\nativescripe\E_lab\mobile-nativescript-elab\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10\debug\com.android.support-animated-vector-drawable-25.3.1_70003fa4a9e75127699312e819e89d29e2bab6b9.jar" />
+        sha1="7615b36d29f0ebd19733f3a2d3763ae967976656">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\intermediates-exploded-aar-Data-2017.1.629-dev-release_6650bc4af4c3676beeedbc9976a0f2e4aadc8e37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\Primitives-2017.1.629-dev-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9778abc074d09a6be12be174e5a775e9d059a3b0">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\intermediates-exploded-aar-Primitives-2017.1.629-dev-release_e5bbb80e8bb88594f1b8e661b9d6416023b57db5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\com.android.support-support-media-compat-25.3.1_4cde094667a9cdedc36989c5fd897311a43ea278.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saleh-mes\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\okio-1.6.0_a8950053e1244dd5197e465921364fcfc3d97199.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\Elab\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="30b97ea5d6274e02330dcc69943087778363c172">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\Elab-runtime-unspecified_b8be16e95e70a569c213a10ec7ffc2148ff33e72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\exploded-aar\Common-2017.1.629-dev-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4ef833d7653b95726b9ee4852a1e0500093e661">
+        <dex dex="C:\temp\nativescripe\E_lab\mobile\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4F5F6F7F8F9F10F11F12\debug\intermediates-exploded-aar-Common-2017.1.629-dev-release_03869fb6cfbb8902c030cf23066759672d3498aa.jar" />
     </item>
 
 </items>

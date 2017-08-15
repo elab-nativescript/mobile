@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\drawer_slide_in_top.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\Primitives-2017.1.629-dev-release\\res\\anim\\drawer_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\popup_out.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.library.tangxiaolv\\telegramgallery\\1.0.1\\res\\anim\\popup_out.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\ucrop_loader_circle_path.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\1.5.0\\res\\anim\\ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\drawer_slide_out_top.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\Primitives-2017.1.629-dev-release\\res\\anim\\drawer_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\icon_anim_fade_in.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.library.tangxiaolv\\telegramgallery\\1.0.1\\res\\anim\\icon_anim_fade_in.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\icon_anim_fade_out.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.library.tangxiaolv\\telegramgallery\\1.0.1\\res\\anim\\icon_anim_fade_out.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\popup_in.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.library.tangxiaolv\\telegramgallery\\1.0.1\\res\\anim\\popup_in.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\ucrop_loader_circle_scale.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\1.5.0\\res\\anim\\ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\no_animation.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.library.tangxiaolv\\telegramgallery\\1.0.1\\res\\anim\\no_animation.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4F5F6F7F8F9F10F11F12\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\temp\\nativescripe\\E_lab\\mobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim\\design_fab_in.xml"
+    }
+]

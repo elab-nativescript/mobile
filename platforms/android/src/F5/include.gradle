@@ -1,15 +1,16 @@
+//default elements
+android {
+    productFlavors {
+        "nativescriptgif" {
+            dimension "nativescriptgif"
+        }
+    }
+}
+
 repositories {
-  jcenter()
+    mavenCentral()
 }
 
 dependencies {
-  compile 'com.yalantis:ucrop:1.5.0'
-}
-
-android {
-    productFlavors {
-        "nic" {
-            dimension "nic"
-        }
-    }
+    compile 'pl.droidsonroids.gif:android-gif-drawable:1.1.17'
 }

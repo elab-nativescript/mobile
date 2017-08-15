@@ -1,17 +1,12 @@
+//default elements
 android {
     productFlavors {
-        "nativescriptfancyalert" {
-            dimension "nativescriptfancyalert"
+        "nativescriptconfettiview" {
+            dimension "nativescriptconfettiview"
         }
     }
 }
 
-repositories {
-   maven {
-      url  "https://jitpack.io"
-   }
-}
-
 dependencies {
-     compile 'com.github.andyxialm:ColorDialog:fc1804b35a'
+     compile "com.github.jinatonic.confetti:confetti:1.1.0"
 }

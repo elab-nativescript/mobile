@@ -1,0 +1,15 @@
+android {
+    productFlavors {
+        "F9" {
+            dimension "nativescriptsvg"
+        }
+    }
+}
+
+repositories {
+    mavenCentral()
+    maven { url "http://dl.bintray.com/pixplicity/android" }
+}
+dependencies {
+    compile 'com.pixplicity.sharp:library:1.0.2@aar'
+}

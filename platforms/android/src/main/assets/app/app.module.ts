@@ -10,6 +10,7 @@ import { SIDEDRAWER_DIRECTIVES } from "nativescript-telerik-ui/sidedrawer/angula
 import { AppComponent } from "./app.component";
 import { routes, navigatableComponents } from "./app.routing";
 import { MinLengthDirective, IsEmailDirective , IsMobileDirective} from "./utils/inputValidation";
+import { DropDownModule } from "nativescript-drop-down/angular";
 
 @NgModule({
   imports: [
@@ -18,6 +19,7 @@ import { MinLengthDirective, IsEmailDirective , IsMobileDirective} from "./utils
     NativeScriptHttpModule,
     NativeScriptRouterModule,
     NativeScriptRouterModule.forRoot(routes),
+    DropDownModule,
     TNSFontIconModule.forRoot({
      'mdi': 'material-design-icons.css'
    }),

@@ -1,11 +1,12 @@
-android {
+
+android { 
     productFlavors {
-        "nativescripttelegramimagepicker" {
-            dimension "nativescripttelegramimagepicker"
+        "nativescript-sms-inbox" {
+            dimension "nativescript-sms-inbox"
         }
     }
 }
 
 dependencies {
-    compile 'com.library.tangxiaolv:telegramgallery:1.0.1'
+	//compile 'com.tuenti.smsradar:library:1.0.4'	
 }

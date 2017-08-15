@@ -1205,6 +1205,12 @@ com.tangxiaolv.telegramgallery.Utils.FileLoader.FileLoaderDelegate
 com.tangxiaolv.telegramgallery.Utils.FileLoadOperation.FileLoadOperationDelegate
 com.tangxiaolv.telegramgallery.Utils.MediaController.FileDownloadProgressListener
 com.tangxiaolv.telegramgallery.Utils.NotificationCenter.NotificationCenterDelegate
+com.pixplicity.sharp.Sharp.DrawableCallback
+com.pixplicity.sharp.Sharp.PictureCallback
+com.pixplicity.sharp.OnSvgElementListener
+com.rd.animation.controller.ValueController.UpdateListener
+com.rd.animation.data.Value
+com.rd.IndicatorManager.Listener
 com.yalantis.ucrop.callback.BitmapCropCallback
 com.yalantis.ucrop.callback.BitmapLoadCallback
 com.yalantis.ucrop.callback.CropBoundsChangeListener

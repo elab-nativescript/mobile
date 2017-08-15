@@ -1,0 +1,83 @@
+<RadSideDrawer >
+    <StackLayout tkDrawerContent class=" sideStackLayout">
+        <GridLayout columns="auto,auto,auto" rows="20,auto,50" class=" sideTitleStackLayout" style="margin-top:30;" height="125">
+
+            <Image  col="0" row="1" id="profile_pic" style="margin-bottom:50;margin-left:10;border-radius:100%;border-color:#ffffff;border-width:2;" width="80" height="80"></Image>
+            <StackLayout col="1" row="1">
+                <Label  [text]="email" style="margin-top:25;margin-left:10;"></Label>
+                <Label  [text]="username" style="margin-left:10;"></Label>
+            </StackLayout>
+
+        </GridLayout>
+        <ScrollView >
+          <StackLayout class="menuScroller">
+            <Label text="Primary" class="sideLabel" (tap)="onMenuTapped('Primary')"></Label>
+            <Label text="Social" class="sideLabel" (tap)="onMenuTapped('Social')"></Label>
+            <Label text="Primary" class="sideLabel" (tap)="onMenuTapped('Primary')"></Label>
+            <Label text="Social" class="sideLabel" (tap)="onMenuTapped('Social')"></Label>
+
+            </StackLayout>
+        </ScrollView>
+    </StackLayout>
+</RadSideDrawer>
+
+<StackLayout style="margin-top:30;">
+  <CardView elevation="100" margin="5" radius="50">
+    <GridLayout margin="0,0,0,0" style="height:250;">
+          <Carousel  height="250"  indicatorColor="#ffffff" finite="true" bounce="false" showIndicator="true" verticalAlignment="top" android:indicatorAnimation="swap">
+          <CarouselItem id="slide1"  verticalAlignment="center" backgroundColor="#22baa0">
+              <Label text="Exchange Rate " style="font-weight:bold;font-size:28;" verticalAlignment="center" horizontalAlignment="center"></Label>
+              <StackLayout>
+                <GridLayout  columns="*,*,*,*" height="20">
+                  <Label col="0" style="text-align:center;font-weight:bold;font-size:12;" text="Name"></Label>
+                  <Label col="1" style="text-align:center;font-weight:bold;font-size:12;" text="Currency"></Label>
+                  <Label col="2" style="text-align:center;font-weight:bold;font-size:12;" text="Currency/$"></Label>
+                  <Label col="3" style="text-align:center;font-weight:bold;font-size:12;" text="Symbol"></Label>
+                </GridLayout>
+                <ListView [items]="countries" class="list-group" >
+                    <ng-template let-country="item" let-i="index" let-odd="odd" let-even="even">
+                        <GridLayout hieght="80" columns="*,*,*,*" padding="5" class="list-group-item">
+                           <Label col="0" style="font-weight:bold;font-size:12;" [text]="country.name"></Label>
+                           <Label col="1" style="text-align:center;font-weight:bold" [text]="country.currency"></Label>
+                           <Label col="2" style="text-align:center;font-weight:bold" [text]="country.currencyRate"></Label>
+                           <Label col="3" style="text-align:center;font-weight:bold" [text]="country.currency_symbol"></Label>
+                        </GridLayout>
+                    </ng-template>
+                </ListView>
+                </StackLayout>
+          </CarouselItem>
+
+          <CarouselItem id="slide2" verticalAlignment="center" backgroundColor="#6497b1">
+              <Label text="Slide 2" verticalAlignment="center" horizontalAlignment="center"></Label>
+          </CarouselItem>
+          <CarouselItem id="slide3" verticalAlignment="center" backgroundColor="#005b96">
+              <Label text="Slide 3" verticalAlignment="center" horizontalAlignment="center"></Label>
+          </CarouselItem>
+          <CarouselItem id="slide4" verticalAlignment="center" backgroundColor="#005c96">
+              <Label text="Slide 4" verticalAlignment="center" horizontalAlignment="center"></Label>
+          </CarouselItem>
+        </Carousel>
+    </GridLayout >
+
+</CardView>
+
+      <GridLayout columns="*,*" rows="auto,auto,auto" style="height:400;margin-right:10;margin-left:10;margin-top:30;" >
+
+          <CardView col="0" row="0" elevation="40" margin="5" radius="100" class="lbCardP">
+          </CardView>
+
+          <CardView col="1" row="0" elevation="40" margin="5" radius="100" class="lbCardP">
+          </CardView>
+
+          <CardView col="0" row="1" elevation="40" margin="5" radius="100" class="lbCardP">
+          </CardView>
+
+          <CardView col="1" row="1" elevation="40" margin="5" radius="100" class="lbCardP">
+          </CardView>
+
+
+      </GridLayout>
+
+
+
+</StackLayout>

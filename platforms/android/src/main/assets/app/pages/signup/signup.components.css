@@ -14,12 +14,13 @@ StackLayout{
    text-align: center;
    line-height: normal;
    padding-top: 2%;
+   width:100;
+   padding: 2;
 }
 .formStyle{
   margin-top: 5%;
 }
 .grid-text-container{
-  margin-left: 5%;
   height:12%;
   color:#ffffff;
 }
@@ -36,8 +37,6 @@ StackLayout{
   border-width: 3;
   border-color: #ffffff;
 }
-
-
 
 .ng-touched{
   animation-name: notvalid;
@@ -74,7 +73,6 @@ StackLayout{
 TextField{
   margin-top: 2%;
   margin-bottom: 2%;
-  margin-left: 5%;
 }
 .header_ab{
   width:100%;

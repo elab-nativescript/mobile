@@ -9,6 +9,7 @@ import { NativeScriptRouterModule } from "nativescript-angular/router";
 import * as application from 'application';
 import {TNSFontIcon, fonticon} from 'nativescript-fonticon';
 import { OuthService } from "../../shared/outh/outh";
+import { restcountries } from "../../shared/restcountries/restcountries"
 import * as Toast from "nativescript-toast";
 import {AnimationCurve} from "ui/enums";
 import {KeyframeAnimation} from "ui/animation/keyframe-animation";
@@ -27,18 +28,18 @@ import { setPasswordComponents } from '../modals/setPW/setpassword.components';
 import * as dialogs from "ui/dialogs";
 let imagepicker = require("nativescript-imagepicker");
 import {LoadingIndicator} from "nativescript-loading-indicator";
-
-
+import { SelectedIndexChangedEventData } from "nativescript-drop-down";
+import { ValueList } from "nativescript-drop-down";
 var loader = new LoadingIndicator();
 
 declare var android: any;
-
+let country_code;
 require( "nativescript-localstorage" );
 @Component({
   selector: "signup",
   templateUrl:"./pages/signup/signup.component.html",
   styleUrls: ["pages/signup/signup.components.css"],
-  providers: [MinLengthDirective ,IsEmailDirective, IsMobileDirective,setPasswordComponents,OuthService],
+  providers: [MinLengthDirective ,IsEmailDirective, IsMobileDirective,setPasswordComponents,OuthService,restcountries],
 })
 
 
@@ -48,21 +49,53 @@ export class signupComponent  implements OnInit{
   @ViewChild("fullname") fName:ElementRef;
   @ViewChild("mobnumber") mobileNumber:ElementRef;
   @ViewChild("password") password:ElementRef;
+  public selectedIndex;
+  public items;
+  public countries;
+  public account;
 
- public account;
- constructor(private page: Page,private oauth:OuthService,private viewRef: ViewContainerRef,private modal:ModalDialogService,private router:Router, private MinLengthDirective:MinLengthDirective,private IsEmailDirective:IsEmailDirective,private mobile:IsMobileDirective, private fonticon: TNSFontIconService,private _changeDetectionRef: ChangeDetectorRef) {
- this.account={
-     fullname:"",
-     email:"",
-     mobile:"",
-     profile_pic:"",
-     password:""
- }
+ constructor(private page: Page,private oauth:OuthService,private restCountries:restcountries,private viewRef: ViewContainerRef,private modal:ModalDialogService,private router:Router, private MinLengthDirective:MinLengthDirective,private IsEmailDirective:IsEmailDirective,private mobile:IsMobileDirective, private fonticon: TNSFontIconService,private _changeDetectionRef: ChangeDetectorRef) {
+     country_code="";
+     this.countries=[];
+     this.account={
+         fullname:"",
+         email:"",
+         mobile:"",
+         profile_pic:"",
+         password:""
+     }
+     
+      try{
+        this.restCountries.getAllcountries().subscribe((res)=>{
+          for(let country of res){
+            for(let code of country.callingCodes){
+                this.countries.push({value:code , display:"  "+country.alpha3Code+" +"+code});
+            }
+          }
+          this.selectedIndex=1;
+          this.items=new ValueList(this.countries);
+        });
+      }catch(e){
+        console.log(e)
+      }
 }
+
+
 
 goback(){
   this.router.navigate(["/"]);
 }
+
+public onchange(args: SelectedIndexChangedEventData) {
+     this.page.getViewById("dropdown").style.color=new Color("#ffffff");
+     country_code="+"+this.items.getValue(args.newIndex);
+ }
+
+ public onopen() {
+     this.page.getViewById("dropdown").style.color=new Color("#22baa0");
+     console.log("Drop Down opened.");
+ }
+
 startCameraTap(){
   camera.requestPermissions();
   camera.takePicture({  keepAspectRatio: true, saveToGallery: true }).then(imageAsset => {
@@ -166,14 +199,15 @@ setTextFieldColors() {
 
       permissions.requestPermission([android.Manifest.permission.READ_SMS,android.Manifest.permission.READ_EXTERNAL_STORAGE,android.Manifest.permission.WRITE_EXTERNAL_STORAGE,android.Manifest.permission.CAMERA], "I need these permissions please");
 
+
+
  }
  signup(account){
    var option = {
     message: 'please wait...'
     };
-
+  this.account.mobile=country_code+this.account.mobile;
   this.oauth.signup(account,loader,option).subscribe((data)=>{
-  //check if user has been created or if the is an error
   if(data.successfulTransaction){
     this.modal.showModal(setPasswordComponents,{
       context:{msg:localStorage.getItem("user_uuid")},

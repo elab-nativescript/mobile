@@ -21,6 +21,7 @@
     "nativescript-angular": "~3.1.0",
     "nativescript-camera": "^3.0.1",
     "nativescript-cardview": "^2.0.2",
+    "nativescript-carousel": "^3.1.0",
     "nativescript-confettiview": "^2.0.1",
     "nativescript-drop-down": "^3.1.0",
     "nativescript-fancyalert": "^1.1.2",

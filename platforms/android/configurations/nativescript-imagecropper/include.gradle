@@ -8,7 +8,7 @@ dependencies {
 
 android {
     productFlavors {
-        "F5" {
+        "F6" {
             dimension "nativescriptimagecropper"
         }
     }

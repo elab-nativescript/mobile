@@ -1,12 +1,15 @@
 android {
-	productFlavors {
-		"nativescript-telerik-ui" {
-			dimension "nativescript-telerik-ui"
-		}
-	}
+    productFlavors {
+        "nativescript-svg" {
+            dimension "nativescript-svg"
+        }
+    }
 }
 
+repositories {
+    mavenCentral()
+    maven { url "http://dl.bintray.com/pixplicity/android" }
+}
 dependencies {
-	compile "com.android.support:appcompat-v7:23.1.0"
-	compile "com.android.support:recyclerview-v7:23.1.0"
+    compile 'com.pixplicity.sharp:library:1.0.2@aar'
 }

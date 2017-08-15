@@ -1,16 +1,17 @@
-//default elements
 android {
     productFlavors {
-        "nativescriptgif" {
-            dimension "nativescriptgif"
+        "nativescriptfancyalert" {
+            dimension "nativescriptfancyalert"
         }
     }
 }
 
 repositories {
-    mavenCentral()
+   maven {
+      url  "https://jitpack.io"
+   }
 }
 
 dependencies {
-    compile 'pl.droidsonroids.gif:android-gif-drawable:1.1.17'
+     compile 'com.github.andyxialm:ColorDialog:fc1804b35a'
 }
